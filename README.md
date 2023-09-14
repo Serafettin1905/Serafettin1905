@@ -114,7 +114,7 @@
 </p>
 
 
-<img width="500" align="right" alt="lion.gif" src="lion.gif" />
+<img width="300" align="right" alt="lion.gif" src="lion.gif" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serafettin1905&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
