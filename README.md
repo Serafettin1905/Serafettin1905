@@ -34,7 +34,7 @@
 
 
 ## :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muslumhanozturk&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Serafettin1905&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 
 
